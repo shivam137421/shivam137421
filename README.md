@@ -36,8 +36,6 @@ I also practice Data Structures and Algorithms in C++ and have solved 200+ probl
 
 Currently, I'm focused on strengthening my backend development skills and building practical software projects.
 
----
-
 
 ## Currently Learning
 
@@ -45,6 +43,9 @@ Currently, I'm focused on strengthening my backend development skills and buildi
 - Improving backend development with Java and Spring Boot
 - Learning Spring Security and secure REST API development
 - Exploring software design and system design fundamentals
+
+
+---
 # ⚡ Tech Stack
 
 ## 💻 Languages
@@ -56,8 +57,6 @@ Currently, I'm focused on strengthening my backend development skills and buildi
 <img src="https://skillicons.dev/icons?i=javascript"/>
 </p>
 
----
-
 ## 🎨 Frontend
 
 <p>
@@ -67,8 +66,6 @@ Currently, I'm focused on strengthening my backend development skills and buildi
 <img src="https://skillicons.dev/icons?i=tailwind"/>
 <img src="https://skillicons.dev/icons?i=bootstrap"/>
 </p>
-
----
 
 ## ⚙ Backend
 
@@ -82,16 +79,12 @@ Currently, I'm focused on strengthening my backend development skills and buildi
 <b>Spring Boot</b> • <b>Spring Security</b> • <b>REST APIs</b> • <b>JWT Authentication</b>
 </p>
 
----
-
 ## 🗄 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
-
----
 
 ## 🛠 Tools
 
@@ -105,13 +98,6 @@ Currently, I'm focused on strengthening my backend development skills and buildi
 
 ---
 
-<div align="center">
-
-### 💜 *"Turning ideas into scalable software, one commit at a time."*
-
-</div>
-
----
 # 🚀 Featured Projects
 
 ## 🌟 SheEarn — Women Skill-to-Income Platform
@@ -185,9 +171,17 @@ A web-based campus placement platform that helps students discover suitable oppo
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivam137421&show_icons=true&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivam137421&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam137421&layout=compact&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam137421&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shivam137421&theme=tokyonight&hide_border=true"/>
 
 </div>
 
