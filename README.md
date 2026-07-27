@@ -635,12 +635,9 @@ Goal:
 ---
 # 🐍 Contribution Snake
 
-> ⚠️ **This animation requires a GitHub Action.**
-> After adding the workflow (I'll give it separately), this image will start updating automatically.
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shivam137421/shivam137421/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/shivam137421/shivam137421/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
