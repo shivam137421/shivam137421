@@ -155,7 +155,7 @@ A web-based campus placement platform that helps students discover suitable oppo
 # 🏆 Achievements & Certifications
 
 - 🧩 Solved **200+ problems on LeetCode**
-- 🏗️ Built **2 full-stack/web development projects**
+- 💻 Built and documented projects using Java, Spring Boot, React, and JavaScript
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** at ABES Engineering College
 - 🎓 Pursuing **BS in Data Science and Applications** from IIT Madras
 - ☁️ Completed **AWS Educate Cloud 101**
