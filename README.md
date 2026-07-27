@@ -48,7 +48,7 @@ Currently, I'm focused on strengthening my backend development skills and buildi
 ---
 # ⚡ Tech Stack
 
-## 💻 Languages
+**💻 Languages**
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp"/>
@@ -57,7 +57,7 @@ Currently, I'm focused on strengthening my backend development skills and buildi
 <img src="https://skillicons.dev/icons?i=javascript"/>
 </p>
 
-## 🎨 Frontend
+**🎨 Frontend**
 
 <p>
 <img src="https://skillicons.dev/icons?i=react"/>
@@ -67,7 +67,7 @@ Currently, I'm focused on strengthening my backend development skills and buildi
 <img src="https://skillicons.dev/icons?i=bootstrap"/>
 </p>
 
-## ⚙ Backend
+**⚙️ Backend**
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring"/>
@@ -79,14 +79,14 @@ Currently, I'm focused on strengthening my backend development skills and buildi
 <b>Spring Boot</b> • <b>Spring Security</b> • <b>REST APIs</b> • <b>JWT Authentication</b>
 </p>
 
-## 🗄 Databases
+**🗄️ Databases**
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-## 🛠 Tools
+**🛠️ Tools**
 
 <p>
 <img src="https://skillicons.dev/icons?i=git"/>
@@ -147,7 +147,6 @@ A web-based campus placement platform that helps students discover suitable oppo
 - ☁️ Completed **AWS Educate Cloud 101**
 - ⛓️ Completed **Blockchain Certification**
 
----
 
 # 🔗 Coding Profiles
 
@@ -171,21 +170,10 @@ A web-based campus placement platform that helps students discover suitable oppo
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivam137421&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam137421&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img width="70%" src="https://streak-stats.demolab.com?user=shivam137421&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
 
 # 📈 Contribution Graph
 
@@ -195,7 +183,6 @@ A web-based campus placement platform that helps students discover suitable oppo
 
 </div>
 
----
 
 
 # 🐍 Contribution Snake
