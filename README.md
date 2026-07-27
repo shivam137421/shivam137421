@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=200%2B+DSA+Problems+Solved;Java+%7C+Spring+Boot+Developer;Backend+Development+Enthusiast;React+%7C+Full-Stack+Developer;Building+Real-World+Projects" alt="Typing SVG" />
 
 <br>
+<br>
 
 <a href="https://www.linkedin.com/in/shivamyadavabesec">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -32,7 +33,6 @@
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=shivam137421&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
 
