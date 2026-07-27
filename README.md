@@ -34,12 +34,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shivam137421&style=for-the-badge&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/followers/shivam137421?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/shivam137421?affiliations=OWNER&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -151,7 +145,7 @@ I enjoy solving real-world problems through clean architecture, efficient code, 
 
 <img src="https://skillicons.dev/icons?i=express"/>
 
-<img src="https://skillicons.dev/icons?i=jwt"/>
+
 
 </p>
 
@@ -310,7 +304,7 @@ MongoDB
 
 ### 🔗 Repository
 
-> *(Repository Link Here)*
+> https://github.com/shivam137421/SheEarn
 
 </details>
 
@@ -392,7 +386,7 @@ The platform centralizes placement notices, company information, interview sched
 
 ### 🔗 Repository
 
-> *(Repository Link Here)*
+> https://github.com/shivam137421/hiretrend_mini_project
 
 </details>
 
