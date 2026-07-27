@@ -392,19 +392,6 @@ The platform centralizes placement notices, company information, interview sched
 
 ---
 
-# 🤖 AI / ML Expertise
-
-> *Focused on integrating AI capabilities into modern software products rather than developing deep learning models.*
-
-| Domain | Proficiency | Experience |
-|---------|------------|------------|
-| AI Feature Integration | ⭐⭐⭐⭐☆ | AI-powered application features |
-| Data Science | ⭐⭐⭐☆☆ | IIT Madras BS Program |
-| Machine Learning Fundamentals | ⭐⭐⭐☆☆ | Academic Learning |
-| Intelligent Product Design | ⭐⭐⭐⭐☆ | Real-world Projects |
-| Prompt Engineering | ⭐⭐⭐☆☆ | Productivity & Development |
-
----
 
 # 📚 Core Computer Science
 
@@ -426,29 +413,7 @@ The platform centralizes placement notices, company information, interview sched
 
 ---
 
-# 🎯 Development Philosophy
 
-```text
-Write Clean Code
-
-↓
-
-Build Secure Applications
-
-↓
-
-Design Scalable Systems
-
-↓
-
-Keep Learning
-
-↓
-
-Solve Real Problems
-```
-
----
 # 🏆 Achievements
 
 <div align="center">
@@ -689,43 +654,6 @@ Currently Learning:
 
 ---
 
-# 🚀 Developer Mindset
-
-```text
-        Learn
-
-          │
-
-          ▼
-
-      Build Projects
-
-          │
-
-          ▼
-
-    Make Mistakes
-
-          │
-
-          ▼
-
-      Improve Code
-
-          │
-
-          ▼
-
-    Solve Real Problems
-
-          │
-
-          ▼
-
-      Keep Learning ♾
-```
-
----
 
 # 📅 2026 Roadmap
 
@@ -789,31 +717,6 @@ Currently Learning:
 
 ---
 
-# 📊 Profile Summary
-
-<div align="center">
-
-```text
-Backend Development      ███████████░ 90%
-
-Spring Boot              ██████████░░ 85%
-
-React                     ████████░░░ 75%
-
-MongoDB                  █████████░░ 80%
-
-Java                      █████████░░ 80%
-
-C++                       █████████░░ 80%
-
-Data Structures           ████████░░░ 75%
-
-Problem Solving           ████████░░░ 75%
-```
-
-</div>
-
----
 
 # ❤️ Support
 
