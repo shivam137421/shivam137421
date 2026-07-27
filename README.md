@@ -1,54 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Shivam%20Yadav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Shivam%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;DSA+%7C+Problem+Solver;B.Tech+CSE+%40+ABES+Engineering+College;BS+Data+Science+%40+IIT+Madras" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;Backend+Engineering+Enthusiast;React+Developer;Data+Structures+%26+Algorithms;Building+Real+World+Projects"/>
 
-<p align="center">
+<br>
+
+<a href="https://www.linkedin.com/in/shivamyadavabesec">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sy6220639@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Shivam_y185/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shivam137421">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/IIT%20Madras-BS%20Data%20Science-6C63FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
-
 <img src="https://img.shields.io/badge/Open%20Source-Learner-7C3AED?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/Spring%20Boot-Backend%20Developer-8B5CF6?style=for-the-badge"/>
 
-<p align="center">
+<br><br>
 
-<a href="https://maps.google.com/?q=Ghaziabad,Uttar+Pradesh">
-<img src="https://img.shields.io/badge/Ghaziabad-Uttar%20Pradesh-blue?style=for-the-badge&logo=googlemaps"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=shivam137421&style=for-the-badge&color=7C3AED"/>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8B5CF6?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shivamyadavabesec/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sy6220639@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/shivam137421">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shivam137421&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/github/followers/shivam137421?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/shivam137421?style=for-the-badge&logo=github"/>
 
 <img src="https://img.shields.io/github/stars/shivam137421?affiliations=OWNER&style=for-the-badge"/>
-
-</p>
 
 </div>
 
@@ -56,50 +46,76 @@
 
 # 💫 About Me
 
-I am a **Full Stack Developer** and **Computer Science undergraduate** passionate about building scalable applications, solving algorithmic problems, and designing secure backend systems.
+```java
+class ShivamYadav {
 
-Currently pursuing:
+    String role = "Full Stack Developer";
 
-- 🎓 **B.Tech in Computer Science & Engineering** — ABES Engineering College
-- 🎓 **BS in Data Science & Applications** — IIT Madras
+    String backend = "Spring Boot";
 
-My primary interests include:
+    String frontend = "React";
 
-- Backend Engineering
-- Full Stack Web Development
-- REST API Development
-- Authentication & Security
-- AI-powered Applications
-- Data Structures & Algorithms
+    String database = "MongoDB & MySQL";
+
+    String currentFocus = "DSA + Backend Development";
+
+    String[] interests = {
+
+        "Backend Engineering",
+        "REST APIs",
+        "Spring Security",
+        "JWT Authentication",
+        "Database Design",
+        "System Design",
+        "Cloud",
+        "Open Source"
+
+    };
+
+}
+```
+
+---
+
+## 🚀 Engineering Profile
+
+🎓 **B.Tech Computer Science & Engineering**
+
+ABES Engineering College
+
+🎓 **Bachelor of Science in Data Science & Applications**
+
+Indian Institute of Technology Madras
+
+💻 Passionate about developing scalable software with a strong focus on backend engineering, secure REST APIs, and modern full-stack applications.
+
+I enjoy solving real-world problems through clean architecture, efficient code, and continuous learning.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Data Structures & Algorithms
 - System Design Fundamentals
-
-I enjoy building products that solve real-world problems while writing clean, maintainable, and scalable code.
-
----
-
-## 🚀 Open To
-
-- Software Engineering Internships
-- Backend Development
-- Java Spring Boot Development
-- Full Stack Development
-- Open Source Collaboration
+- Spring Boot Security
+- Cloud Computing
+- Microservices Architecture
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
-## Programming Languages
+## 💻 Languages
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=cpp"/>
 
+<img src="https://skillicons.dev/icons?i=java"/>
+
 <img src="https://skillicons.dev/icons?i=python"/>
 
 <img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
@@ -107,7 +123,7 @@ I enjoy building products that solve real-world problems while writing clean, ma
 
 ---
 
-## Frontend
+## 🎨 Frontend
 
 <p>
 
@@ -125,7 +141,7 @@ I enjoy building products that solve real-world problems while writing clean, ma
 
 ---
 
-## Backend & Databases
+## ⚙ Backend
 
 <p>
 
@@ -135,6 +151,16 @@ I enjoy building products that solve real-world problems while writing clean, ma
 
 <img src="https://skillicons.dev/icons?i=express"/>
 
+<img src="https://skillicons.dev/icons?i=jwt"/>
+
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
@@ -143,7 +169,7 @@ I enjoy building products that solve real-world problems while writing clean, ma
 
 ---
 
-## Cloud, DevOps & Tooling
+## ☁ DevOps & Tools
 
 <p>
 
@@ -161,45 +187,130 @@ I enjoy building products that solve real-world problems while writing clean, ma
 
 ---
 
-# 🤖 AI / ML Expertise
+<div align="center">
 
-| Domain | Proficiency | Details |
-|---------|------------|---------|
-| AI-Powered Applications | Intermediate | AI-assisted feature integration in web applications |
-| Machine Learning Fundamentals | Intermediate | Supervised learning, data preprocessing |
-| Data Science | Intermediate | IIT Madras BS Data Science curriculum |
-| Data Analysis | Intermediate | Python, SQL |
-| AI Integration | Intermediate | Intelligent product features and workflow enhancement |
+### 💜 *"Turning ideas into scalable software, one commit at a time."*
+
+</div>
 
 ---
-
 # 🚀 Featured Projects
 
-<details>
+---
 
-<summary><b>🌟 SheEarn — Women Skill Marketplace</b></summary>
+<details open>
 
-A full-stack marketplace enabling women to showcase their skills, publish service listings, and connect with customers using secure role-based authentication.
+<summary>
+
+# 🌟 SheEarn — AI Powered Women Skill Marketplace
+
+</summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Type-Full%20Stack-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Security-JWT%20Protected-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Architecture-REST%20API-orange?style=for-the-badge"/>
+
+</div>
+
+---
+
+### 📖 Overview
+
+**SheEarn** is a modern full-stack marketplace that empowers women to showcase their skills, publish service listings, and connect with customers through a secure role-based platform.
+
+The application focuses on security, scalability, accessibility, and AI-assisted features while delivering a seamless user experience.
+
+---
+
+## ✨ Key Features
+
+- 🔐 JWT Authentication
+- 🛡 Spring Security
+- 👥 Role Based Access Control (RBAC)
+- 🤖 AI Skill Analysis
+- 📍 Location Aware Gig Discovery
+- 🎙 Voice Assisted Input
+- 🚨 SOS Emergency Support
+- ⭐ Reviews & Ratings
+- 📊 Personalized Dashboard
+- 📱 Responsive UI
+
+---
+
+## 🏗 Architecture
+
+```text
+Frontend (React + Tailwind)
+
+↓
+
+REST APIs
+
+↓
+
+Spring Boot
+
+↓
+
+Spring Security
+
+↓
+
+JWT Authentication
+
+↓
+
+MongoDB
+```
+
+---
+
+## ⚙ Tech Stack
+
+| Layer | Technologies |
+|--------|--------------|
+| Frontend | React.js, Tailwind CSS |
+| Backend | Spring Boot |
+| Security | Spring Security, JWT, BCrypt |
+| Database | MongoDB |
+| API | REST APIs |
+
+---
+
+## 📈 Highlights
 
 | Category | Details |
-|-----------|---------|
-| Stack | React.js, Spring Boot, Spring Security, MongoDB, JWT, Tailwind CSS |
-| Scale | Multi-user role-based platform |
-| Performance | Optimized REST APIs and responsive frontend |
-| Security | JWT Authentication, BCrypt, RBAC |
-| Impact | Enables skill discovery and service marketplace |
-| Repository | *Add Repository Link Here* |
+|----------|----------|
+| Authentication | JWT + BCrypt |
+| Authorization | Role Based Access |
+| Database | MongoDB |
+| Security | Spring Security |
+| API Design | RESTful Architecture |
+| Deployment | Coming Soon |
 
-### Highlights
+---
 
-- Secure Authentication
-- Spring Security
-- JWT Authorization
-- AI Skill Analysis
-- SOS Emergency Feature
-- Voice Assisted Input
-- Reviews & Ratings
-- Location-aware Search
+## 🎯 Learning Outcomes
+
+- Enterprise Authentication
+- REST API Design
+- Secure Backend Development
+- MongoDB Integration
+- Full Stack Architecture
+
+---
+
+### 🔗 Repository
+
+> *(Repository Link Here)*
 
 </details>
 
@@ -207,67 +318,155 @@ A full-stack marketplace enabling women to showcase their skills, publish servic
 
 <details>
 
-<summary><b>🌟 HireTrends — Campus Placement Portal</b></summary>
+<summary>
 
-A placement management platform helping students and administrators manage recruitment activities efficiently.
+# 💼 HireTrends — Campus Placement Portal
+
+</summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Web%20Application-Bootstrap-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Responsive-Yes-purple?style=for-the-badge"/>
+
+</div>
+
+---
+
+### 📖 Overview
+
+HireTrends is a campus placement management platform designed to simplify recruitment activities for students and administrators.
+
+The platform centralizes placement notices, company information, interview schedules, eligibility checks, and recruitment updates.
+
+---
+
+## ✨ Features
+
+- 👨‍🎓 Student Dashboard
+- 🏢 Company Listings
+- 📢 Placement Notices
+- 🗓 Interview Schedule
+- 🎯 Eligibility Recommendation
+- 👨‍💼 Admin Panel
+- 📈 Reports
+- 📱 Responsive Design
+
+---
+
+## ⚙ Tech Stack
+
+| Layer | Technologies |
+|--------|--------------|
+| Frontend | HTML |
+| Styling | CSS |
+| Logic | JavaScript |
+| UI | Bootstrap |
+
+---
+
+## 📊 Highlights
 
 | Category | Details |
-|-----------|---------|
-| Stack | HTML, CSS, JavaScript, Bootstrap |
-| Scale | College Placement Management |
-| Performance | Responsive Multi-page Application |
-| Security | Role-based User Modules |
-| Impact | Simplifies placement workflow |
-| Repository | *Add Repository Link Here* |
+|----------|----------|
+| Responsive UI | Bootstrap |
+| Recommendation | Eligibility Based |
+| Dashboard | Student + Admin |
+| Architecture | Multi Page |
 
-### Highlights
+---
 
-- Student Dashboard
-- Admin Dashboard
-- Placement Tracking
-- Eligibility Recommendation
-- Interview Schedule
-- Placement Notifications
+## 🎯 Learning Outcomes
+
+- Responsive Web Design
+- DOM Manipulation
+- UI Development
+- Project Organization
+
+---
+
+### 🔗 Repository
+
+> *(Repository Link Here)*
 
 </details>
 
 ---
-# 💼 Experience
 
-### Full Stack Developer | Student Projects
-**ABES Engineering College**  
-**Sept 2024 – Present**
+# 🤖 AI / ML Expertise
 
-Designed and developed secure, scalable, and responsive full-stack applications using modern web technologies with a focus on backend engineering and real-world problem solving.
+> *Focused on integrating AI capabilities into modern software products rather than developing deep learning models.*
 
-#### Responsibilities
-
-- Developed RESTful APIs using Spring Boot.
-- Implemented JWT Authentication and Spring Security.
-- Built responsive frontends with React.js and Tailwind CSS.
-- Designed MongoDB database schemas.
-- Integrated role-based authentication (RBAC).
-- Followed Git & GitHub version control workflows.
-- Practiced clean architecture and modular code organization.
-
-**Skills**
-
-`Spring Boot` `React.js` `MongoDB` `JWT` `REST APIs`
-`Git` `GitHub` `Tailwind CSS` `JavaScript`
+| Domain | Proficiency | Experience |
+|---------|------------|------------|
+| AI Feature Integration | ⭐⭐⭐⭐☆ | AI-powered application features |
+| Data Science | ⭐⭐⭐☆☆ | IIT Madras BS Program |
+| Machine Learning Fundamentals | ⭐⭐⭐☆☆ | Academic Learning |
+| Intelligent Product Design | ⭐⭐⭐⭐☆ | Real-world Projects |
+| Prompt Engineering | ⭐⭐⭐☆☆ | Productivity & Development |
 
 ---
 
+# 📚 Core Computer Science
+
+<div align="center">
+
+| Domain | Status |
+|---------|--------|
+| Data Structures & Algorithms | ✅ |
+| Object-Oriented Programming | ✅ |
+| Database Management Systems | ✅ |
+| Operating Systems | 🟡 Learning |
+| Computer Networks | 🟡 Learning |
+| System Design Fundamentals | 🟡 Learning |
+| REST APIs | ✅ |
+| Spring Security | ✅ |
+| JWT Authentication | ✅ |
+
+</div>
+
+---
+
+# 🎯 Development Philosophy
+
+```text
+Write Clean Code
+
+↓
+
+Build Secure Applications
+
+↓
+
+Design Scalable Systems
+
+↓
+
+Keep Learning
+
+↓
+
+Solve Real Problems
+```
+
+---
 # 🏆 Achievements
 
 <div align="center">
 
-| Recognition | Details |
-|-------------|---------|
-| 🧩 LeetCode | Solved **200+ DSA Problems** |
-| 🎓 Dual Degree | Pursuing **B.Tech CSE + IIT Madras BS Data Science** |
-| 💻 Full Stack | Built secure full-stack applications using Spring Boot & React |
-| 🔐 Backend | Implemented JWT Authentication & RBAC |
-| ☁ AWS | AWS Educate Cloud 101 Certified |
+| Achievement | Status |
+|-------------|--------|
+| 🧩 LeetCode | **200+ Problems Solved** |
+| 💻 Full Stack Projects | **2+ Major Projects** |
+| 🎓 Dual Degree | **B.Tech CSE + IIT Madras BS Data Science** |
+| 🔐 Backend Development | **Spring Boot + Spring Security + JWT** |
+| ☁ Cloud Learning | **AWS Educate Cloud 101 Certified** |
+| 🌱 Continuous Learning | **Backend • DSA • System Design** |
 
 </div>
 
@@ -275,175 +474,290 @@ Designed and developed secure, scalable, and responsive full-stack applications 
 
 # 📜 Certifications
 
-## AWS
+<div align="center">
 
-<p>
+<img src="https://img.shields.io/badge/AWS-Educate%20Cloud%20101-FF9900?style=for-the-badge&logo=amazonaws"/>
 
-<img src="https://img.shields.io/badge/AWS%20Educate-Cloud%20101-FF9900?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Blockchain-Certified-7C3AED?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/Data%20Science-IIT%20Madras-6C63FF?style=for-the-badge"/>
 
----
-
-## Blockchain
-
-<p>
-
-<img src="https://img.shields.io/badge/Blockchain-Basics-6C63FF?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-## Data Science
+# 💻 Coding Profiles
 
-<p>
-
-<img src="https://img.shields.io/badge/Data%20Science-Certified-8B5CF6?style=for-the-badge"/>
-
-</p>
-
----
-
-# 👨‍💻 Coding Profiles
-
-<p align="center">
+<div align="center">
 
 <a href="https://leetcode.com/u/Shivam_y185/">
-
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-
+<img src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://github.com/shivam137421">
-
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/GitHub-View%20Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shivamyadavabesec/">
-
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<a href="https://www.linkedin.com/in/shivamyadavabesec">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
-
----
-
-## 📈 Competitive Programming
-
-| Platform | Status |
-|-----------|--------|
-| LeetCode | 200+ Problems Solved |
-| GitHub | Active Full Stack Projects |
-| DSA | Arrays, Trees, Graphs, DP, Greedy, Binary Search |
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=shivam137421&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivam137421&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam137421&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam137421&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shivam137421&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivam137421&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-<p align="center">
+# 🏅 GitHub Trophies
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com?user=shivam137421&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-# 🏆 GitHub Trophies
-
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=shivam137421&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Activity
+# 📚 DSA Journey
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam137421&theme=tokyo-night&hide_border=true"/>
-
-</p>
+```text
+Started Programming
+        │
+        ▼
+C++
+        │
+        ▼
+Arrays
+        │
+        ▼
+Strings
+        │
+        ▼
+Stack & Queue
+        │
+        ▼
+Linked List
+        │
+        ▼
+Trees
+        │
+        ▼
+Binary Search
+        │
+        ▼
+Heap
+        │
+        ▼
+Graphs
+        │
+        ▼
+Dynamic Programming
+```
 
 ---
 
+## 📖 Current Learning Roadmap
+
+| Topic | Status |
+|--------|--------|
+| Arrays | ✅ |
+| Strings | ✅ |
+| Linked List | ✅ |
+| Stack | ✅ |
+| Queue | ✅ |
+| Binary Search | ✅ |
+| Trees | 🟡 |
+| BST | 🟡 |
+| Heap | 🟡 |
+| Graph | 🟡 |
+| Dynamic Programming | 🔜 |
+| System Design | 🔜 |
+
+---
+
+# 📌 Developer Stats
+
+```yaml
+Name: Shivam Yadav
+
+Role: Full Stack Developer
+
+Backend:
+  - Spring Boot
+  - REST APIs
+  - Spring Security
+
+Frontend:
+  - React
+  - Tailwind CSS
+
+Database:
+  - MongoDB
+  - MySQL
+
+Programming:
+  - Java
+  - C++
+  - JavaScript
+  - Python
+
+Learning:
+  - DSA
+  - System Design
+  - Cloud
+
+Goal:
+  - Software Development Engineer
+```
+
+---
 # 🐍 Contribution Snake
 
-<p align="center">
+> ⚠️ **This animation requires a GitHub Action.**
+> After adding the workflow (I'll give it separately), this image will start updating automatically.
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/shivam137421/shivam137421/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
-
-> **Note:** Snake animation won't work automatically. You need to create a GitHub Action to generate it.
+</div>
 
 ---
 
 # 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Advanced Data Structures & Algorithms
-  - System Design Fundamentals
-  - Spring Boot Microservices
-  - Database Optimization
+Currently Building:
 
-Building:
-  - Full Stack Applications
-  - Secure REST APIs
-  - Portfolio Projects
+  • Enterprise Spring Boot Applications
 
-Exploring:
-  - Cloud Computing (AWS)
-  - Docker
-  - Kubernetes
-  - AI-powered Applications
+  • Secure REST APIs
 
-Open To:
-  - Software Engineering Internship
-  - Backend Development
-  - Full Stack Development
-  - Open Source Collaboration
+  • Full Stack Projects
+
+  • DSA for Placements
+
+--------------------------------------
+
+Currently Learning:
+
+  • Advanced DSA
+
+  • System Design
+
+  • Microservices
+
+  • Docker
+
+  • AWS Cloud
+
+--------------------------------------
+
+2026 Goals:
+
+  ✓ 500+ LeetCode Problems
+
+  ✓ Strong Backend Skills
+
+  ✓ Open Source Contributions
+
+  ✓ Internship at Product Based Company
+
+  ✓ Master Spring Boot
+
+  ✓ Build Scalable Applications
 ```
 
 ---
 
-# 📚 Currently Learning
+# 🚀 Developer Mindset
+
+```text
+        Learn
+
+          │
+
+          ▼
+
+      Build Projects
+
+          │
+
+          ▼
+
+    Make Mistakes
+
+          │
+
+          ▼
+
+      Improve Code
+
+          │
+
+          ▼
+
+    Solve Real Problems
+
+          │
+
+          ▼
+
+      Keep Learning ♾
+```
+
+---
+
+# 📅 2026 Roadmap
 
 <div align="center">
 
-| Focus Area | Status |
-|------------|--------|
-| DSA | 🟣 Daily Practice |
-| Spring Boot | 🟣 Building Projects |
-| React.js | 🟣 Improving UI Skills |
-| MongoDB | 🟣 Database Design |
-| System Design | 🟣 Learning Fundamentals |
-| Cloud | 🟣 Beginner |
+| Goal | Progress |
+|------|----------|
+| 📚 DSA | 🟢 In Progress |
+| 💻 Full Stack | 🟢 In Progress |
+| ☁ AWS | 🟡 Learning |
+| 🐳 Docker | 🟡 Learning |
+| ☸ Kubernetes | 🔵 Planned |
+| ⚡ Spring Boot | 🟢 Active |
+| 📦 REST APIs | 🟢 Active |
+| 📈 System Design | 🟡 Learning |
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:sy6220639@gmail.com">
 
@@ -451,7 +765,7 @@ Open To:
 
 </a>
 
-<a href="https://www.linkedin.com/in/shivamyadavabesec/">
+<a href="https://www.linkedin.com/in/shivamyadavabesec">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
@@ -469,16 +783,57 @@ Open To:
 
 </a>
 
-</p>
+</div>
+
+---
+
+# 💜 Random Dev Quote
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+</div>
+
+---
+
+# 📊 Profile Summary
+
+<div align="center">
+
+```text
+Backend Development      ███████████░ 90%
+
+Spring Boot              ██████████░░ 85%
+
+React                     ████████░░░ 75%
+
+MongoDB                  █████████░░ 80%
+
+Java                      █████████░░ 80%
+
+C++                       █████████░░ 80%
+
+Data Structures           ████████░░░ 75%
+
+Problem Solving           ████████░░░ 75%
+```
+
+</div>
+
+---
+
+# ❤️ Support
+
+If you like my work, consider giving a ⭐ to my repositories.
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💜 Thanks for visiting my profile!
 
-*"Building scalable software, solving real-world problems, and continuously learning every day."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
