@@ -173,21 +173,24 @@ A web-based campus placement platform that helps students discover suitable oppo
 - ⛓️ Completed **Blockchain Certification**
 
 
-# 🔗 Coding Profiles
+# 💻 Coding Profiles
 
-<p>
+<div align="center">
+
 <a href="https://leetcode.com/u/Shivam_y185/">
-<img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://github.com/shivam137421">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.codechef.com/users/shivam_y9026">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shivamyadavabesec">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.geeksforgeeks.org/profile/sy622uuvx">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-</p>
+
+</div>
+
 
 ---
 
