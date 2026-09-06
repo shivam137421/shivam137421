@@ -4,7 +4,7 @@
 
 ### Computer Science Student · Backend & Full-Stack Developer · Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=200%2B+DSA+Problems+Solved;Java+%7C+Spring+Boot+Developer;Backend+Development+Enthusiast;React+%7C+Full-Stack+Developer;Building+Real-World+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=250%2B+DSA+Problems+Solved;Java+%7C+Spring+Boot+Developer;Backend+Development+Enthusiast;React+%7C+Full-Stack+Developer;Building+Real-World+Projects" alt="Typing SVG" />
 
 <br>
 <br>
@@ -46,7 +46,7 @@ I'm a Computer Science student pursuing a B.Tech in Computer Science and Enginee
 
 I primarily work with Java, Spring Boot, React, and MongoDB, and I'm interested in backend and full-stack development.
 
-I also practice Data Structures and Algorithms in C++ and have solved 200+ problems on LeetCode.
+I also practice Data Structures and Algorithms in C++ and have solved 250+ problems on LeetCode.
 
 Currently, I'm focused on strengthening my backend development skills and building practical software projects.
 
